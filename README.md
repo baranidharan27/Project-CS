@@ -1,4 +1,4 @@
-# K-Means Clustering for CustomerSegmentation
+# K-Means Clustering for Customer Segmentation
 
 ![K-Means Clustering](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/K-means_convergence.gif/250px-K-means_convergence.gif)
 
